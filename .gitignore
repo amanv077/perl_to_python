@@ -1,0 +1,24 @@
+# Python-specific
+*.pyc
+*.pyo
+__pycache__/
+.pytest_cache/
+.tox/
+.eggs/
+.coverage
+
+# Django-specific
+db.sqlite3
+.DS_Store
+.idea/
+.vscode/
+*.log
+django_app/cgi-bin/
+
+# Virtual environment
+venv/
+
+__data/
+OLD/
+STATUS/
+TEST_DATA/
