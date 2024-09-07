@@ -1,0 +1,8 @@
+ng - 454 4.7.1 <hogehogehoge@docomo.ne.jp>: Relay access denied,hogehogehoge@docomo.ne.jp
+ng - 454 4.7.1 <cahogehogehoge@docomo.ne.jp>: Relay access denied,cahogehogehoge@docomo.ne.jp
+ng - 454 4.7.1 <bahogehogehoge@docomo.ne.jp>: Relay access denied,bahogehogehoge@docomo.ne.jp
+ng - 454 4.7.1 <ahogehogehoge@docomo.ne.jp>: Relay access denied,ahogehogehoge@docomo.ne.jp
+ng - 454 4.7.1 <hogehogehoge@docomo.ne.jp>: Relay access denied,hogehogehoge@docomo.ne.jp
+ng - 454 4.7.1 <cahogehogehoge@docomo.ne.jp>: Relay access denied,cahogehogehoge@docomo.ne.jp
+ng - 454 4.7.1 <bahogehogehoge@docomo.ne.jp>: Relay access denied,bahogehogehoge@docomo.ne.jp
+ng - 454 4.7.1 <ahogehogehoge@docomo.ne.jp>: Relay access denied,ahogehogehoge@docomo.ne.jp
